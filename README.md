@@ -1,8 +1,7 @@
-# DIO - Trilha .NET - Banco de Dados
-www.dio.me
+# Trilha .NET - Banco de Dados
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
+Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET
 
 ## Contexto
 Você é responsável pelo banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores. Sendo assim, foi solicitado para que você realize uma consulta no banco de dados com o objetivo de trazer alguns dados para análises.
@@ -66,7 +65,7 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ![Exercicio 6](Imagens/6.png)
 
-## 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
+## 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela quantidade em ordem decrescente
 
 ![Exercicio 7](Imagens/7.png)
 
@@ -89,3 +88,6 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 ![Exercicio 12](Imagens/12.png)
+
+## Resposta do desafio
+Um arquivo de script sql chamado **Answer.sql** deverá ser criado com as respostas do desafio.
